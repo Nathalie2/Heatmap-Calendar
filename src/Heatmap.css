@@ -1,0 +1,31 @@
+.react-calendar-heatmap text {
+    font-size: 10px;
+    fill: #aaa;
+  }
+  
+  .react-calendar-heatmap .react-calendar-heatmap-small-text {
+    font-size: 5px;
+  }
+
+/* Colors for different spending levels */
+.color-empty {
+    fill: #ebedf0; /* Light gray for empty days */
+}
+
+.color-low {
+    fill: #c6e48b; /* Light green for low spending */
+}
+
+.color-medium {
+    fill: #7bc96f; /* Medium green for moderate spending */
+}
+
+.color-high {
+    fill: #239a3b; /* Dark green for high spending */
+}
+
+
+
+
+
+
